@@ -6,10 +6,11 @@ esta es la clase de  TPI de prototipado
 1. introducción a git
 2. buscar repositos
 3. usar  git init
-        * init
-        * commit
-        * push
-        * pull
+
+ * init
+ * commit
+ * push
+ * pull
 
 
-![log](/img/log.png)
+![logo](/img/logo.png)
